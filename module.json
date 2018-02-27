@@ -1,0 +1,12 @@
+{
+  "name": "microbit-wumpus",
+  "version": "0.1.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Hunt the Wumpus game for BBC micro:bit",
+  "author": "Adrien Glitchbone",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}
